@@ -19,35 +19,7 @@ CryptoTool is a Python-based GUI application designed to encrypt, decrypt, and h
 - **Cross-Platform Support:**
   - Works on Linux, Windows, and macOS
 
-## Installation
-### Prerequisites
-Ensure you have Python 3 installed. Then, install the required dependencies using:
-```bash
-sudo apt update
-sudo apt install python3-pip python3-pyqt5
-pip install pycryptodome
-```
 
-### Clone the Repository
-```bash
-git clone https://github.com/Camikaz-e/CryptoTool.git
-cd CryptoTool
-```
-
-### Run the Application
-```bash
-python3 crypto_tool.py
-```
-
-## Usage
-1. Select an encryption algorithm from the dropdown menu.
-2. Enter the text or select an image file.
-3. Provide an encryption key (or generate one).
-4. Click "Process" to encrypt, decrypt, or hash the input.
-5. View the output in the designated text box.
-
-## Contributing
-Feel free to contribute by creating pull requests or reporting issues!
 
 ## License
 This project is licensed under the MIT License.
